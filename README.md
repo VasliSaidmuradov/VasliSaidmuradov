@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 #### I'm a Frontend Developer working in Almaty, :kazakhstan:
 
-
-
 - 🏢 I'm currently working at **Kaspi.kz**
 - 💻 I use daily: **.js, .html, .css, .vue**
 - 🌱 I’m currently learning **Algorithms and Data Structures**
@@ -29,4 +27,4 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/vasli-saidmuradov/" target="_blank"><img src="icons/linkedin_button_icon.svg" /></a>
 <a href="https://leetcode.com/VasliSaidmuradov/" target="_blank"><img src="icons/leetcode_button_icon.svg" /></a>
-<a href="https://www.codewars.com/users/Vasli" target="_blank"><img src="icons/codewars_button_icon.svg" /></a>
+<a href="https://www.codewars.com/users/VasliSaidmuradov" target="_blank"><img src="icons/codewars_button_icon.svg" /></a>
