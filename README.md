@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a Frontend Developer working in Almaty, :kazakhstan:
+#### I'm a Frontend Developer working in Tashkent, 🇺🇿:
 
-- 🏢 I'm currently working at **Kaspi.kz**
+- 🏢 I'm currently working at **Uzum**
 - 💻 I use daily: **.js, .html, .css, .vue**
 - 🌱 I’m currently learning **Algorithms and Data Structures**
 
